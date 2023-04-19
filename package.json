@@ -1,0 +1,14 @@
+{
+  "name": "firebase-manage",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "firebase-admin": "^11.7.0",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.1"
+  }
+}
